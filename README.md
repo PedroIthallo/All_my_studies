@@ -1,2 +1,1 @@
-# py
-All my Python class codes are here.
+All my SQL studies, including challenges that simulate real-world day-to-day business cases.
